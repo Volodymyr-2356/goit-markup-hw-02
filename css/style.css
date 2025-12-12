@@ -63,9 +63,7 @@ a {
   color: white;
   font-weight: 500;
   font-size: 16px;
-}
-.main-page-button:hover,
-.main-page-button:focus {
+  cursor: pointer;
 }
 
 .features-items-title {
